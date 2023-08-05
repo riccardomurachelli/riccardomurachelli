@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **riccardomurachell@gmail.com**
 
-- 📄 Know about my experiences [https://www.riccardomurachelli.tech](https://www.riccardomurachelli.tech)
-
-- ⚡ Fun fact **I have a girlfriend playing osu!, strange right?**
+- 📄 Know about my experiences [https://www.riccardomurachelli.it](https://www.riccardomurachelli.it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

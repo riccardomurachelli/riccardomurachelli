@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here you'll find projects, experiments, and everyt
 
 ### 💻 **Web Development**
 - **Front-end**: HTML, CSS, JavaScript
-- **Back-end**: Python, JavaScript, C++
+- **Back-end**: Python, Java, JavaScript, C++
 - **Database**: SQLite
 
 ### 🛠️ **Tools and Frameworks**
